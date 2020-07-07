@@ -57,7 +57,7 @@ table {
 
 td,th {
 	
-  padding: 18px;
+  padding:1.31vw;
   border-collapse:collapse
 }
 
@@ -77,7 +77,8 @@ li{
 
 .content{
 	font-style: italic;
-	border:solid 5px #061A29;
+	border:solid 10px #061A29;
+	width: 98.3%;
 }
 
 .heading{
@@ -92,7 +93,7 @@ li{
 
 
 .head{
-	padding: 30px;
+	padding: 3.17vw;
 	padding-bottom: 60px;
 	padding-top: 0px;
 }
